@@ -3,7 +3,7 @@ import os.path; # Path
 import numpy as np; # Numpy
 from matplotlib import pyplot as plt; # Matplotlib
 
-# documentation: https://docs.opencv.org/3.4/d4/d86/tutorial_py_histogram_equalization.html
+# documentation: https://docs.opencv.org/4.5.4/
 
 # Author: Ji-Xiang Zeng
 # Copyright (c) 2021, All rights reserved.
