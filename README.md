@@ -7,3 +7,9 @@
 [一小时学习python和opencv](https://youtu.be/HHVPK1GqV54)
 
 [OpenCV Course - Full Tutorial with Python](https://youtu.be/oXlwWbU8l2o)
+
+### 教學文章
+---
+[How To Build a GPT-3 Chatbot with Python](https://jman4190.medium.com/how-to-build-a-gpt-3-chatbot-with-python-7b83e55805e6)
+
+[OpenAI API Key](https://beta.openai.com/docs/developer-quickstart/your-api-keys)
